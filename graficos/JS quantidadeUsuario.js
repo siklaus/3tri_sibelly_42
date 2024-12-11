@@ -91,4 +91,3 @@ async function quantidadeUsuariosPorRede() {
  /*Chamar a função*/
  /*aqui tinha um ERRO*/
  quantidadeUsuariosPorRede()
- 
